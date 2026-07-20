@@ -44,7 +44,7 @@ header img {
 
 .form {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
 
 .form label {
@@ -80,7 +80,8 @@ header img {
     border:none;
     border-radius: 15px;
     font-size: 20px;
-    cursor: pointer;
+    font-weight: 500;
+    cursor:pointer;
     
 }
 
